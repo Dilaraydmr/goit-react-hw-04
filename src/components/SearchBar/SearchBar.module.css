@@ -1,0 +1,39 @@
+.header {
+  display: flex;
+  justify-content: center;
+  background-color: #8095f3;
+  padding: 16px;
+}
+
+.form {
+  display: flex;
+  gap: 8px;
+}
+
+.input {
+  width: 300px;
+  padding: 8px;
+  font-size: 16px;
+}
+
+.searchContainer {
+  display: flex;
+  align-items: center;
+  background: white;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  padding: 5px 10px;
+}
+
+.icon {
+  font-size: 18px;
+  color: gray;
+  margin-right: 5px;
+}
+
+.input {
+  border: none;
+  outline: none;
+  font-size: 16px;
+  padding: 5px;
+}
